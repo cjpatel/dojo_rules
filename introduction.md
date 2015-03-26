@@ -1,5 +1,4 @@
 
 Skills:
 * Git
-* JavaScript
 * Ruby
